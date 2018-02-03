@@ -1,0 +1,23 @@
+{
+  "plugins": {
+    "outline": {
+      
+    },
+    "node": {
+      
+    },
+    "es_modules": {
+      
+    },
+    "ckeditor4.4.x": {
+      
+    }
+  },
+  "libs": [
+    "ecma5",
+    "ecma6",
+    "browser",
+    "jquery"
+  ],
+  "ecmaVersion": 6
+}
